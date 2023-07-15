@@ -9,7 +9,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     color: var(--txt);
-
+    
     /* outline: 1px solid red; */
 }
 
@@ -17,16 +17,12 @@
     width: 100vw;
     height: 100vh;
 }
-
 .content,
 .logo{
     display: flex;
     flex-flow: row wrap;
 }
-
-
 /* left side */
-
 .picture{
     background-image: url(_655cb6af-d462-4193-a011-c689cb9428be.jpeg);
     background-position: center;
@@ -34,7 +30,6 @@
     background-repeat: no-repeat;
     width: 40vw;
 }
-
 
 .logo{
     height: auto;
@@ -87,8 +82,6 @@ h1{
 .remote-text{
     margin: 40px 0 80px;
 }
-
-
 /* form */
 
 .form{
